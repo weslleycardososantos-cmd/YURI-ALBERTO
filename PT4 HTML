@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yuri alberto</title>
+</head>
+<body>
+    <header>
+        <h1>Yuri alberto</h1>
+        <p> vai corinthians!</p>
+        </header>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Noticias</a>
+            <a href="#">Contato</a>
+        </nav>
+        <main>
+        <article>
+            <h1>História do Yuri alberto</h1>
+            <p>Nascido em São José dos Campos, São Paulo, Yuri Alberto ingressou nas categorias de base do Santos em 2013, aos doze anos de idade. O atacante assinou seu primeiro contrato profissional no dia 28 de julho de 2017, com duração de três anos. Em 1 de novembro de 2017, foi promovido ao elenco principal por Elano, técnico interino. O centroavante estreou no time titular no dia 16 de novembro, quinze dias depois, substituindo o volante Renato na derrota fora de casa por 3–1 contra o Bahia.</p>
+
+            <h2>times que passou</h2>
+
+            <p>Santos: Revelado nas categorias de base, subiu ao profissional em 2017 e ficou no clube até 2020. 
+                Internacional: Defendeu o Colorado entre 2020 e 2022, com destaque e artilharia no Campeonato Brasileiro.
+                Zenit São Petersburgo: Atuou pelo clube da Rússia em 2022.
+                Corinthians: Chegou ao Timão em 2022 e permanece na equipe.  
+                
+            </p>
+            <picture>
+                <source media="(min-width:670px)" srcset="imagens/yuri-alberto-corinthians-santos-gol-e1739415808714.webp">
+                <img src="imagens/yuri-alberto-corinthians-santos-gol-e1739415808714.webp" alt="Primeiro mascote do android"></picture>
+</main>
+</body>
+</html>
